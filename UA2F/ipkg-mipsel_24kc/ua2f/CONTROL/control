@@ -1,0 +1,11 @@
+Package: ua2f
+Version: 4.1.2-1
+Depends: libc, libnetfilter-conntrack3, libnetfilter-queue1, libpthread, iptables-mod-conntrack-extra, iptables-mod-filter, iptables-mod-nfqueue
+Source: package/UA2F/openwrt
+SourceName: ua2f
+License: GPL-3.0-only
+Section: net
+SourceDateEpoch: 1684938533
+Architecture: mipsel_24kc
+Installed-Size: 11663
+Description:  Change User-agent to Fwords to prevent being checked by Dr.Com.

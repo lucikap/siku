@@ -1,0 +1,7 @@
+/home/brukamen/1260/openwrt/package/UA2F/build/CMakeFiles/install/strip.dir
+/home/brukamen/1260/openwrt/package/UA2F/build/CMakeFiles/install/local.dir
+/home/brukamen/1260/openwrt/package/UA2F/build/CMakeFiles/edit_cache.dir
+/home/brukamen/1260/openwrt/package/UA2F/build/CMakeFiles/install.dir
+/home/brukamen/1260/openwrt/package/UA2F/build/CMakeFiles/list_install_components.dir
+/home/brukamen/1260/openwrt/package/UA2F/build/CMakeFiles/rebuild_cache.dir
+/home/brukamen/1260/openwrt/package/UA2F/build/CMakeFiles/ua2f.dir
